@@ -19,14 +19,9 @@
  ## Other
 
 <details>
- <summary> My github trophies</summary>
-
-<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar?username=dvsara" alt="dvsara" /></a> </p>
-    </details>
-<details>
     <summary>My github stats</summary>
 
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dvsara&" alt="dvsara" /></p>
+ <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=dvsara" alt="dvsara" /></p>
 </details>
 <details>
     <summary> Here are my most used languages</summary>
